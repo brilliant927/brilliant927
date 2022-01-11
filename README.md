@@ -59,7 +59,7 @@ I am continuously trying to improve, learn more and gain new experiences.
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://cdn.eventil.com/uploads/event/header_image/190798/processed_highres_466497848.jpg" align="center" style="width: 100%" />
+
 </div>  
 
 
