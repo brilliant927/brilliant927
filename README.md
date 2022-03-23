@@ -50,8 +50,6 @@ I am continuously trying to improve, learn more and gain new experiences.
   
 
 - ❓ Feel free to ask about any problem with web & blockchain  
-  
--Conntact : live:.cid.ef7478a28029a781
 
 
 </td><td valign="top" width="50%">
