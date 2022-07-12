@@ -41,7 +41,7 @@ I am continuously trying to improve, learn more and gain new experiences.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m flexible at working hours  
   
@@ -51,15 +51,6 @@ I am continuously trying to improve, learn more and gain new experiences.
 
 - ❓ Feel free to ask about any problem with web & blockchain  
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
