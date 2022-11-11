@@ -26,7 +26,7 @@
 ### Glad to see you here!
 Hello everybody. Thanks for visiting.
 
-Passionate ✨Full Stack & Blockchain✨ Developer offering 5+ years of relevant experience in Blockchain.
+Passionate ✨Full Stack & Blockchain✨ Developer offering 5+ years of relevant experiences.
 
 I have experience developing DeFi, DEX, DApp, Trading Bot, Token, autonomous systems and artificial intelligence.
 
