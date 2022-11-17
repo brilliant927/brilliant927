@@ -1,59 +1,6 @@
-## Software Engineer & Blockchain Engineer
-  
-
-<a href="https://github.com/brilliant927" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/brilliant927" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/brilliant927" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/brilliant927" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/brilliant927" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/brilliant927" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
-### Glad to see you here!
-Hello everybody. Thanks for visiting.
-
-Passionate ✨Full Stack & Blockchain✨ Developer offering 5+ years of relevant experiences.
-
-I have experience developing DeFi, DEX, DApp, Trading Bot, Token, autonomous systems and artificial intelligence.
-
-I am fluent in Solidity, Web3.js, Python and JavaScript ,and have worked on a variety of projects as a consultant, helping clients achieve their goals. I am also keen on several JavaScript and Python web frameworks like React, Angular, Django and Flask.
-
-I am a life-long learner and is looking forward to working on exciting and challenging projects.
-
-I am continuously trying to improve, learn more and gain new experiences.
-  
-
-<br/>  
-
-
-## Rapidfire  
-
-
-- 🔭 I’m flexible at working hours  
-  
-
-- 🌱 I can commit more than 30h per week  
-  
-
-- ❓ Feel free to ask about any problem with web & blockchain  
-
-
-<br/>  
-
+## Full-Stack Software Engineer
+I am a passionate software engineer who started programming in grade school. 
+After getting bachelor's degree in computer science, I worked for some international companies–developing mostly web applications for several years. I am accustomed to a distributed environment and working with remote clients using agile methodologies. I am also not new to the remote freelancing scene, so I am extremely flexible with working hours.
 
 ## Languages and Tools  
 <div align="center">  
