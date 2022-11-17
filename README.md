@@ -33,18 +33,3 @@ After getting bachelor's degree in computer science, I worked for some internati
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="25" />  
 </div>  
-
-<br/>  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
